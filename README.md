@@ -1,30 +1,32 @@
-<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.webp" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&vCenter=true&height=30&lines=Hello!;I'm+Duong)](https://git.io/typing-svg)
+<img align='right' src="https://i.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.webp" height="150">
+<p>
+  <em>
+    I'm a Ph.D. student at Dongguk University under the guidance of <a href="http://cilab.dongguk.edu/">Prof. Chul Lee</a>.
+    </br>
+    My main interest is machine learning, particularly questions related to deep learning for image processing and representation learning.
+  </em>
+</p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nhduong.nhduong)
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class PhDStudent:
+
+    def __init__(self):
+        self.name = "Duong Nguyen"
+        self.role = "Ph.D. Student"
+        self.language_spoken = ["en_US", "vn_VN"]
+
+    def say_hi(self):
+        print("Thanks for dropping by!")
 
 
-### <img src="https://giphy.com/embed/GRVM7bxdn7yEFWTN6i" width="50"> A little more about me...  
-
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+me = PhDStudent()
+me.say_hi()
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
