@@ -3,9 +3,9 @@
 <p>
   <em>
     I'm a Ph.D. student at Dongguk University under the guidance of <a href="http://cilab.dongguk.edu/">Prof. Chul Lee</a>.
-    </br>
-    My main interest is machine learning, particularly questions related to deep learning for image processing and representation learning.
   </em>
+  </br>
+  My main interest is machine learning, particularly questions related to deep learning for image processing and representation learning.
 </p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nhduong.nhduong)
